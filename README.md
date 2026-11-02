@@ -69,90 +69,90 @@ Open-source tooling is indispensable for building custom identity graphs, auditi
 
 The table below is sorted in descending order by GitHub stargazers:
 
-| Repository 📦 | Stars ⭐ | Primary Purpose 🎯 | Supported Environments 🌐 | License 📜 |
+| Repository 📦 | GitHub_Stars ⭐ | Primary Purpose 🎯 | Supported Environments 🌐 | License 📜 |
 | :--- | :--- | :--- | :--- | :--- |
-| **[prowler-cloud / prowler](https://github.com/prowler-cloud/prowler)** | [![GitHub stars](https://img.shields.io/github/stars/prowler-cloud/prowler?style=social&color=white)](https://github.com/prowler-cloud/prowler/stargazers) | Multi-Cloud Security Assessment & IAM Compliance Auditing | AWS, Azure, GCP, Kubernetes | Apache-2.0 |
-| **[nccgroup / ScoutSuite](https://github.com/nccgroup/ScoutSuite)** | [![GitHub stars](https://img.shields.io/github/stars/nccgroup/ScoutSuite?style=social&color=white)](https://github.com/nccgroup/ScoutSuite/stargazers) | Multi-Cloud Security Auditing & IAM Posture Snapshot | AWS, Azure, GCP, Alibaba Cloud, OCI | GPL-2.0 |
-| **[duo-labs / cloudmapper](https://github.com/duo-labs/cloudmapper)** | [![GitHub stars](https://img.shields.io/github/stars/duo-labs/cloudmapper?style=social&color=white)](https://github.com/duo-labs/cloudmapper/stargazers) | AWS IAM Visualization, Resource Mapping & Misconfiguration Scanner | AWS | Open-Source |
-| **[lyft / cartography](https://github.com/lyft/cartography)** | [![GitHub stars](https://img.shields.io/github/stars/lyft/cartography?style=social&color=white)](https://github.com/lyft/cartography/stargazers) | Cross-Boundary Graph Exploration & Asset Relationship Graph | AWS, Azure, GCP, Okta, GitHub, K8s | Apache-2.0 |
-| **[salesforce / cloudsplaining](https://github.com/salesforce/cloudsplaining)** | [![GitHub stars](https://img.shields.io/github/stars/salesforce/cloudsplaining?style=social&color=white)](https://github.com/salesforce/cloudsplaining/stargazers) | AWS IAM Policy Analysis & Least-Privilege Risk Scoring | AWS | Apache-2.0 |
-| **[salesforce / policy_sentry](https://github.com/salesforce/policy_sentry)** | [![GitHub stars](https://img.shields.io/github/stars/salesforce/policy_sentry?style=social&color=white)](https://github.com/salesforce/policy_sentry/stargazers) | Least-Privilege IAM Policy Generation & Role Scoping | AWS | MIT |
-| **[Azure / Stormspotter](https://github.com/Azure/Stormspotter)** | [![GitHub stars](https://img.shields.io/github/stars/Azure/Stormspotter?style=social&color=white)](https://github.com/Azure/Stormspotter/stargazers) | Azure & Entra ID (Azure AD) Graph Attack Path Modeling | Azure, Microsoft Entra ID | MIT |
-| **[nccgroup / PMapper](https://github.com/nccgroup/PMapper)** | [![GitHub stars](https://img.shields.io/github/stars/nccgroup/PMapper?style=social&color=white)](https://github.com/nccgroup/PMapper/stargazers) | AWS IAM Privilege Escalation Graph & Role Chain Resolution | AWS | AGPL-3.0 |
-| **[Netflix / repokid](https://github.com/Netflix/repokid)** | [![GitHub stars](https://img.shields.io/github/stars/Netflix/repokid?style=social&color=white)](https://github.com/Netflix/repokid/stargazers) | Automated AWS IAM Least-Privilege Role Right-Sizing / Aardvark | AWS | Apache-2.0 |
-| **[cyberark / SkyArk](https://github.com/cyberark/SkyArk)** | [![GitHub stars](https://img.shields.io/github/stars/cyberark/SkyArk)](https://github.com/cyberark/SkyArk/stargazers) | Cloud Steal-the-Token & Privileged Entity Discovery | AWS, Azure | MIT |
-| **[wso2 / product-is](https://github.com/wso2/product-is)** | [![GitHub stars](https://img.shields.io/github/stars/wso2/product-is?style=social&color=white)](https://github.com/wso2/product-is/stargazers) | Enterprise IAM Platform & SCIM/Adaptive Auth Foundation | On-Premises, Cloud, Hybrid | Apache-2.0 |
-| **[BishopFox / iam-vulnerable](https://github.com/BishopFox/iam-vulnerable)** | [![GitHub stars](https://img.shields.io/github/stars/BishopFox/iam-vulnerable?style=social&color=white)](https://github.com/BishopFox/iam-vulnerable/stargazers) | Vulnerable AWS IAM Infrastructure for Security Testing & Benchmarks | AWS | MIT |
-| **[authomize / open-itdr](https://github.com/authomize/open-itdr)** | [![GitHub stars](https://img.shields.io/github/stars/authomize/open-itdr?style=social&color=white)](https://github.com/authomize/open-itdr/stargazers) | Open Specification & Schema for Identity Threat Detection & Response | Cross-Platform, Multi-IdP | Apache-2.0 |
-| **[hanzoai / iam](https://github.com/hanzoai/iam)** | [![GitHub stars](https://img.shields.io/github/stars/hanzoai/iam?style=social&color=white)](https://github.com/hanzoai/iam/stargazers) | AI-First IAM Platform with SCIM, WebAuthn, and RBAC | Cloud, Microservices | Apache-2.0 |
-| **[nirjxr26 / Bastion](https://github.com/nirjxr26/Bastion)** | [![GitHub stars](https://img.shields.io/github/stars/nirjxr26/Bastion?style=social&color=white)](https://github.com/nirjxr26/Bastion/stargazers) | Self-Hosted IAM Platform with Dynamic RBAC & Risk Scoring | Self-Hosted, Cloud | MIT-style |
+| **[prowler-cloud / prowler](https://github.com/prowler-cloud/prowler)** | [![GitHub_Stars](https://img.shields.io/github/stars/prowler-cloud/prowler?style=social&color=white)](https://github.com/prowler-cloud/prowler/stargazers) | Multi-Cloud Security Assessment & IAM Compliance Auditing | AWS, Azure, GCP, Kubernetes | Apache-2.0 |
+| **[nccgroup / ScoutSuite](https://github.com/nccgroup/ScoutSuite)** | [![GitHub_Stars](https://img.shields.io/github/stars/nccgroup/ScoutSuite?style=social&color=white)](https://github.com/nccgroup/ScoutSuite/stargazers) | Multi-Cloud Security Auditing & IAM Posture Snapshot | AWS, Azure, GCP, Alibaba Cloud, OCI | GPL-2.0 |
+| **[duo-labs / cloudmapper](https://github.com/duo-labs/cloudmapper)** | [![GitHub_Stars](https://img.shields.io/github/stars/duo-labs/cloudmapper?style=social&color=white)](https://github.com/duo-labs/cloudmapper/stargazers) | AWS IAM Visualization, Resource Mapping & Misconfiguration Scanner | AWS | Open-Source |
+| **[lyft / cartography](https://github.com/lyft/cartography)** | [![GitHub_Stars](https://img.shields.io/github/stars/lyft/cartography?style=social&color=white)](https://github.com/lyft/cartography/stargazers) | Cross-Boundary Graph Exploration & Asset Relationship Graph | AWS, Azure, GCP, Okta, GitHub, K8s | Apache-2.0 |
+| **[salesforce / cloudsplaining](https://github.com/salesforce/cloudsplaining)** | [![GitHub_Stars](https://img.shields.io/github/stars/salesforce/cloudsplaining?style=social&color=white)](https://github.com/salesforce/cloudsplaining/stargazers) | AWS IAM Policy Analysis & Least-Privilege Risk Scoring | AWS | Apache-2.0 |
+| **[salesforce / policy_sentry](https://github.com/salesforce/policy_sentry)** | [![GitHub_Stars](https://img.shields.io/github/stars/salesforce/policy_sentry?style=social&color=white)](https://github.com/salesforce/policy_sentry/stargazers) | Least-Privilege IAM Policy Generation & Role Scoping | AWS | MIT |
+| **[Azure / Stormspotter](https://github.com/Azure/Stormspotter)** | [![GitHub_Stars](https://img.shields.io/github/stars/Azure/Stormspotter?style=social&color=white)](https://github.com/Azure/Stormspotter/stargazers) | Azure & Entra ID (Azure AD) Graph Attack Path Modeling | Azure, Microsoft Entra ID | MIT |
+| **[nccgroup / PMapper](https://github.com/nccgroup/PMapper)** | [![GitHub_Stars](https://img.shields.io/github/stars/nccgroup/PMapper?style=social&color=white)](https://github.com/nccgroup/PMapper/stargazers) | AWS IAM Privilege Escalation Graph & Role Chain Resolution | AWS | AGPL-3.0 |
+| **[Netflix / repokid](https://github.com/Netflix/repokid)** | [![GitHub_Stars](https://img.shields.io/github/stars/Netflix/repokid?style=social&color=white)](https://github.com/Netflix/repokid/stargazers) | Automated AWS IAM Least-Privilege Role Right-Sizing / Aardvark | AWS | Apache-2.0 |
+| **[cyberark / SkyArk](https://github.com/cyberark/SkyArk)** | [![GitHub_Stars](https://img.shields.io/github/stars/cyberark/SkyArk)](https://github.com/cyberark/SkyArk/stargazers) | Cloud Steal-the-Token & Privileged Entity Discovery | AWS, Azure | MIT |
+| **[wso2 / product-is](https://github.com/wso2/product-is)** | [![GitHub_Stars](https://img.shields.io/github/stars/wso2/product-is?style=social&color=white)](https://github.com/wso2/product-is/stargazers) | Enterprise IAM Platform & SCIM/Adaptive Auth Foundation | On-Premises, Cloud, Hybrid | Apache-2.0 |
+| **[BishopFox / iam-vulnerable](https://github.com/BishopFox/iam-vulnerable)** | [![GitHub_Stars](https://img.shields.io/github/stars/BishopFox/iam-vulnerable?style=social&color=white)](https://github.com/BishopFox/iam-vulnerable/stargazers) | Vulnerable AWS IAM Infrastructure for Security Testing & Benchmarks | AWS | MIT |
+| **[authomize / open-itdr](https://github.com/authomize/open-itdr)** | [![GitHub_Stars](https://img.shields.io/github/stars/authomize/open-itdr?style=social&color=white)](https://github.com/authomize/open-itdr/stargazers) | Open Specification & Schema for Identity Threat Detection & Response | Cross-Platform, Multi-IdP | Apache-2.0 |
+| **[hanzoai / iam](https://github.com/hanzoai/iam)** | [![GitHub_Stars](https://img.shields.io/github/stars/hanzoai/iam?style=social&color=white)](https://github.com/hanzoai/iam/stargazers) | AI-First IAM Platform with SCIM, WebAuthn, and RBAC | Cloud, Microservices | Apache-2.0 |
+| **[nirjxr26 / Bastion](https://github.com/nirjxr26/Bastion)** | [![GitHub_Stars](https://img.shields.io/github/stars/nirjxr26/Bastion?style=social&color=white)](https://github.com/nirjxr26/Bastion/stargazers) | Self-Hosted IAM Platform with Dynamic RBAC & Risk Scoring | Self-Hosted, Cloud | MIT-style |
 
 ---
 
 ### 🔎 Detailed Tool Breakdown
 
 #### 1. [Prowler](https://github.com/prowler-cloud/prowler) 🛡️
-[![GitHub stars](https://img.shields.io/github/stars/prowler-cloud/prowler?style=social&color=white)](https://github.com/prowler-cloud/prowler/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/prowler-cloud/prowler?style=social&color=white)](https://github.com/prowler-cloud/prowler/stargazers)
 * **Description:** An industry-standard multi-cloud security assessment and auditing tool covering AWS, Azure, GCP, and Kubernetes. Features hundreds of built-in compliance checks covering CIS Benchmarks, ISO 27001, and GDPR, with deep inspections of IAM permissions, root account hygiene, MFA enforcement, and credential rotation.
 * **Best For:** Automated compliance reporting and baseline cloud security hygiene auditing.
 
 #### 2. [ScoutSuite](https://github.com/nccgroup/ScoutSuite) 🔍
-[![GitHub stars](https://img.shields.io/github/stars/nccgroup/ScoutSuite?style=social&color=white)](https://github.com/nccgroup/ScoutSuite/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/nccgroup/ScoutSuite?style=social&color=white)](https://github.com/nccgroup/ScoutSuite/stargazers)
 * **Description:** An open-source multi-cloud auditing tool from NCC Group. Gathers configuration details across AWS, Azure, GCP, Alibaba Cloud, and Oracle Cloud, generating an interactive offline HTML report that highlights privilege exposures and policy anomalies.
 * **Best For:** Security consultants and internal audit teams conducting point-in-time posture assessments.
 
 #### 3. [CloudMapper](https://github.com/duo-labs/cloudmapper) 🗺️
-[![GitHub stars](https://img.shields.io/github/stars/duo-labs/cloudmapper?style=social&color=white)](https://github.com/duo-labs/cloudmapper/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/duo-labs/cloudmapper?style=social&color=white)](https://github.com/duo-labs/cloudmapper/stargazers)
 * **Description:** Originally created by Duo Security to visualize AWS environments and identify network/IAM misconfigurations. Features interactive graphing capabilities and audits IAM users, policies, and roles for wildcard privileges.
 * **Best For:** Visualizing AWS infrastructure and identifying coarse-grained identity misconfigurations.
 
 #### 4. [Cartography](https://github.com/lyft/cartography) 🌐
-[![GitHub stars](https://img.shields.io/github/stars/lyft/cartography?style=social&color=white)](https://github.com/lyft/cartography/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/lyft/cartography?style=social&color=white)](https://github.com/lyft/cartography/stargazers)
 * **Description:** An infrastructure graph engine developed by Lyft that consolidates assets and entitlement connections into a **Neo4j graph database**. Seamlessly correlates relationships across AWS, Azure, GCP, Okta, GitHub, and Kubernetes.
 * **Best For:** Complex cross-domain blast-radius investigation and answering sophisticated graph queries (e.g., "Which AWS admin roles are reachable from a compromised GitHub action?").
 
 #### 5. [Cloudsplaining](https://github.com/salesforce/cloudsplaining) 📄
-[![GitHub stars](https://img.shields.io/github/stars/salesforce/cloudsplaining?style=social&color=white)](https://github.com/salesforce/cloudsplaining/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/salesforce/cloudsplaining?style=social&color=white)](https://github.com/salesforce/cloudsplaining/stargazers)
 * **Description:** An AWS IAM policy assessment tool by Salesforce that maps least-privilege violations into actionable, triage-ready HTML reports. Flags data exfiltration risks, credential exposure, and privilege escalation paths.
 * **Best For:** Security engineers triaging and remediating overly permissive IAM policies.
 
 #### 6. [Policy Sentry](https://github.com/salesforce/policy_sentry) ✍️
-[![GitHub stars](https://img.shields.io/github/stars/salesforce/policy_sentry?style=social&color=white)](https://github.com/salesforce/policy_sentry/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/salesforce/policy_sentry?style=social&color=white)](https://github.com/salesforce/policy_sentry/stargazers)
 * **Description:** An IAM policy generator that enforces least privilege at policy inception. Instead of manually editing wildcard statements, developers specify target resources and required actions, and Policy Sentry compiles restricted ARN-scoped policies.
 * **Best For:** Shifting identity posture left into CI/CD pipelines and infrastructure-as-code (IaC).
 
 #### 7. [Stormspotter](https://github.com/Azure/Stormspotter) ⚡
-[![GitHub stars](https://img.shields.io/github/stars/Azure/Stormspotter?style=social&color=white)](https://github.com/Azure/Stormspotter/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/Azure/Stormspotter?style=social&color=white)](https://github.com/Azure/Stormspotter/stargazers)
 * **Description:** An open-source tool created by Microsoft Azure red teams that collects and models Azure Active Directory (Microsoft Entra ID) and Azure Resource Manager (ARM) objects into a Neo4j graph.
 * **Best For:** Visualizing attack paths and privilege relationships across Azure tenants.
 
 #### 8. [PMapper (Principal Mapper)](https://github.com/nccgroup/PMapper) 🧭
-[![GitHub stars](https://img.shields.io/github/stars/nccgroup/PMapper?style=social&color=white)](https://github.com/nccgroup/PMapper/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/nccgroup/PMapper?style=social&color=white)](https://github.com/nccgroup/PMapper/stargazers)
 * **Description:** A premier command-line graph engine for discovering privilege escalation risks in AWS IAM. Identifies complex transitive role-assumption chains to definitively answer "Who can reach admin access and by what sequence of API calls?".
 * **Best For:** Penetration testers and cloud security architects hunting multi-hop privilege escalation paths.
 
 #### 9. [Repokid](https://github.com/Netflix/repokid) ✂️
-[![GitHub stars](https://img.shields.io/github/stars/Netflix/repokid?style=social&color=white)](https://github.com/Netflix/repokid/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/Netflix/repokid?style=social&color=white)](https://github.com/Netflix/repokid/stargazers)
 * **Description:** Netflix's battle-tested IAM role right-sizing framework. Leverages AWS Access Advisor (via Aardvark) to systematically strip unused permissions from IAM roles across multi-account deployments.
 * **Best For:** Production organizations seeking automated least-privilege role rightsizing at scale.
 
 #### 10. [SkyArk](https://github.com/cyberark/SkyArk) 🏹
-[![GitHub stars](https://img.shields.io/github/stars/cyberark/SkyArk)](https://github.com/cyberark/SkyArk/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/cyberark/SkyArk)](https://github.com/cyberark/SkyArk/stargazers)
 * **Description:** An open-source toolkit from CyberArk Labs focused on discovering stealthy cloud administrator entities and shadow privileges across AWS and Azure environments.
 * **Best For:** Identifying hidden admin roles and toxic privilege escalation chains.
 
 #### 11. [WSO2 Identity Server](https://github.com/wso2/product-is) 🏢
-[![GitHub stars](https://img.shields.io/github/stars/wso2/product-is?style=social&color=white)](https://github.com/wso2/product-is/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/wso2/product-is?style=social&color=white)](https://github.com/wso2/product-is/stargazers)
 * **Description:** Mature enterprise-grade open-source IAM platform certified as a Digital Public Good. Provides foundational support for OAuth 2.0, OIDC, SAML, SCIM 2.0, FIDO2, and adaptive risk-based authentication.
 * **Best For:** Teams seeking an open-source enterprise identity architecture foundation.
 
 #### 12. [iam-vulnerable](https://github.com/BishopFox/iam-vulnerable) 🎯
-[![GitHub stars](https://img.shields.io/github/stars/BishopFox/iam-vulnerable?style=social&color=white)](https://github.com/BishopFox/iam-vulnerable/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/BishopFox/iam-vulnerable?style=social&color=white)](https://github.com/BishopFox/iam-vulnerable/stargazers)
 * **Description:** A Terraform-based deployment from Bishop Fox designed to spin up intentionally vulnerable AWS IAM policies and role configurations for benchmarking detection tools.
 * **Best For:** Testing, validating, and training ISPM tools and security operations teams.
 
 #### 13. [Open-ITDR](https://github.com/authomize/open-itdr) 📡
-[![GitHub stars](https://img.shields.io/github/stars/authomize/open-itdr?style=social&color=white)](https://github.com/authomize/open-itdr/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/authomize/open-itdr?style=social&color=white)](https://github.com/authomize/open-itdr/stargazers)
 * **Description:** An open specification and schema standard originated by Authomize (Delinea) to model identity events, risk indicators, and response actions across disparate IdPs and cloud providers.
 * **Best For:** Normalizing identity security telemetry across diverse enterprise systems.
 
